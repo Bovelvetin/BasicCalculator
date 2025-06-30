@@ -12,6 +12,7 @@ while True:
             5- Suma de 3 valores
             6- Potencia 
             7- Salir
+            8- Saludo
         """)
 
     valor = int(input("Elige una opcion: ") )     
@@ -36,6 +37,9 @@ while True:
         break
     if valor == 7:
         print("Hasta pronto!")
+        break
+    if valor == 7:
+        print("Buena compare sudo mkdir /XDXDDDDD")
         break
     else:
         print("Opcion incorrecta")
